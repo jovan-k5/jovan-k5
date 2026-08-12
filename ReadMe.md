@@ -10,7 +10,7 @@ Currently, I'm working on an app and exploring a sensory-friendly hardware indic
 * **Hardware:** Arduino
 * **Design:** CAD
 
-I'm learning through online courses, hands-on projects, experimentation, and tinkering with whatever I can.
+I'm learning through online courses, hands-on projects, experimentation, and tinkering with whatever I can!
 
 ### Hobbies
 
@@ -18,4 +18,4 @@ I'm learning through online courses, hands-on projects, experimentation, and tin
 * Paper diorama building
 * Hanging out with my brother
 * Geography games
-* And many more!
+* And many more
