@@ -1,15 +1,21 @@
-# 🤯 About Me:
-code<br>
+Hi, I'm Jovan 👋
 
+I'm a high school student exploring how biomedical engineering and technology can make everyday life more accessible. Inspired by my brother, I'm interested in designing systems that support neurodivergent individuals, improve accessibility in everyday environments, and promote awareness and understanding.
 
-## 🦄 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jovankaur170@gmail.com) 
+Currently, I'm working on an app and exploring a sensory-friendly hardware indicator as part of a larger project.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jovan-k5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jovan-k5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jovan-k5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Tech & Skills
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* **Languages:** JavaScript, C
+* **Hardware:** Arduino
+* **Design:** CAD
+
+I'm learning through online courses, hands-on projects, experimentation, and tinkering with whatever I can.
+
+### Hobbies
+
+* CAD
+* Paper diorama building
+* Hanging out with my brother
+* Geography games
+* And many more!
