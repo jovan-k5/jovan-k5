@@ -6,16 +6,17 @@ Currently, I'm working on an app and exploring a sensory-friendly hardware indic
 
 ### Tech & Skills
 
-* **Languages:** JavaScript, C
-* **Hardware:** Arduino
+* **Languages:** C, JavaScript
+* **Hardware + Electronics:** Arduino, sensors, basic electronics
+* **Tools:** Arduino IDE
 * **Design:** CAD
 
-I'm learning through online courses, hands-on projects, experimentation, and tinkering with whatever I can!
+I'm learning through online courses, hands-on projects, experimentation, and tinkering with whatever I can get my hands on!
 
 ### Hobbies
 
-* CAD
-* Paper diorama building
+* Paper diorama building of castles
 * Hanging out with my brother
 * Geography games
+* Volleyball
 * And many more
