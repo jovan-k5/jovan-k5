@@ -15,7 +15,7 @@ I'm learning through online courses, hands-on projects, experimentation, and tin
 
 ### Hobbies
 
-* Paper diorama building of castles
+* Paper diorama buildings of castles
 * Hanging out with my brother
 * Geography games
 * Volleyball
