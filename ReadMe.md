@@ -6,7 +6,7 @@ Currently, I'm working on an app and exploring a sensory-friendly hardware indic
 
 ### Tech & Skills
 
-* **Languages:** C, JavaScript
+* **Languages:** C, C++, JavaScript
 * **Hardware + Electronics:** Arduino, sensors, basic electronics
 * **Tools:** Arduino IDE
 * **Design:** CAD
