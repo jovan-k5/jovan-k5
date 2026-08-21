@@ -4,7 +4,7 @@ I'm a high school student exploring how biomedical engineering and technology ca
 
 I'm learning through online courses, hands-on projects, experimentation, and tinkering with whatever I can get my hands on!
 
-Currently, I'm refining my skills and learn GUI concepts. 
+Currently, I'm refining my skills and learning GUI concepts. 
 
 ### Tech & Skills
 
